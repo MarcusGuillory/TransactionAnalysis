@@ -1,6 +1,6 @@
 The submitted Python code was written in Google Colab as a Jupyter notebook.  
 
-The code should be opened in Google Colab with the attached data document in the same folder.
+The code should be opened in Google Colab using the .ipynb file.
 
 ---
 Locate the 'Appendix: Load Generation Script' and run it entirely.
